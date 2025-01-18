@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+Investment Calculator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Duration: April 2024 – August 2024
+Type: Self-employed (Udemy Course Project)
 
-## Available Scripts
+Project Overview
 
-In the project directory, you can run:
+The Investment Calculator is a React.js-based web application developed as part of a Udemy course project. This tool helps users calculate potential returns on investments based on user-provided parameters. The application provides a dynamic interface to input data and visualize results, offering users a comprehensive view of their investment growth over time.
 
-### `npm start`
+Key Features:
+ • User Input Parameters:
+ • Initial Investment: The starting amount of money.
+ • Annual Investment: Additional yearly contributions to the investment.
+ • Expected Return: The annual return rate in percentage.
+ • Duration: The number of years the investment will grow.
+ • Calculated Outputs:
+ • Yearly investment growth.
+ • Total interest earned per year.
+ • Total accumulated capital.
+ • Real-time Calculations: Immediate updates based on user input.
+ • Data Visualization: Visual representation of investment growth with detailed tables.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+My Contributions
+ • Developed a dynamic and responsive UI using React.js.
+ • Implemented real-time calculations leveraging React state and JavaScript.
+ • Visualized investment growth with detailed tables and interactive components.
+ • Designed and styled the interface to ensure a clean and modern user experience.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Technologies Used
+ • Frontend: React.js, JavaScript, CSS3, HTML5
+ • Libraries & Tools: State Management, ES6, JSON
+ • Additional Skills: Data Visualization, Algorithm Development, Problem Solving
 
-### `npm test`
+Results
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Delivered a fully functional Investment Calculator that simplifies financial planning for users. This project enhanced my skills in React.js, state management, and implementing practical financial logic in web applications.
 
-### `npm run build`
+Demo
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+https://ahoncharyk.github.io/investment-calculator/
